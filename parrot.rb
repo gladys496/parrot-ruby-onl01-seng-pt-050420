@@ -2,5 +2,6 @@
 # returns the phrase
 
 def parrot(name = "Squawk")
-  puts parrot 
+  puts parrot
+  parrot
 end 
